@@ -10,4 +10,4 @@ set -e
 
 MY_DIR="$(cd "$(dirname "${0}")"; pwd -P)"
 
-"${MY_DIR}/../pyxis/vela/extract-files.sh" "$@"
+"${MY_DIR}/../pyxis/extract-files.sh" "$@"
