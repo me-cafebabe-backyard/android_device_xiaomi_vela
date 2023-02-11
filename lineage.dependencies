@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_google_crosshatch",
-    "target_path": "device/google/crosshatch"
+    "repository": "android_device_xiaomi_pyxis",
+    "target_path": "device/xiaomi/pyxis"
   }
 ]
