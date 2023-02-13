@@ -34,4 +34,4 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit from the proprietary version
-include vendor/xiaomi/vela/BoardConfigVendor.mk
+include vendor/xiaomi/pyxis/BoardConfigVendor.mk
